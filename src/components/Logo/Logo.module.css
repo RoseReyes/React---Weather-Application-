@@ -1,0 +1,11 @@
+.Wrapper {
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+
+.Icon {
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+}
